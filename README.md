@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>WinForms Hospital App</b>
-  - [](//https://github.com/)
-- <b>Basic CRUD API </b>
-  - [](https://github.com/) <b>
+- <b>WinForms C# with SQL server</b>
+  - [Hospital App](//https://github.com/)
+- <b>ASP.Net core WebAPI </b>
+  - [Basic CRUD API for movie app](https://github.com/) <b>
 
