@@ -5,6 +5,14 @@
 - <b>WinForms C# with SQL server</b>
   - [Hospital App](https://github.com/AhmedEssam2209/Hospital-App)
 - <b>ASP.Net core WebAPI </b>
-  - [Basic CRUD API for movie app](https://github.com/AhmedEssam2209/Movie-Rating-API) <b>
+  - [Movie Rating API](https://github.com/AhmedEssam2209/Movie-Rating-API) <b>
 - <b> VHDL modelsim </b>
-  - [Processor Simulation (in progress)](https://github.com/AhmedEssam2209) <b>
+  - [Pipelined processor](https://github.com/AhmedEssam2209/Pipelined-processor) <b>
+- <b> Logisim </b>
+  - [ALU Unit](https://github.com/AhmedEssam2209/ALU-Unit) <b>
+- <b> C++ and CMU graphics library.  </b>
+  - [Kids Drawing App](https://github.com/AhmedEssam2209/Kids-drawing-app) <b>
+- <b> VHDL modelsim </b>
+  - [Gaming Console](https://github.com/AhmedEssam2209/Gaming-console-) <b>
+- <b> C in Linux platform. </b>
+  - [OS scheduler](https://github.com/AhmedEssam2209/OS-scheduler-) <b>
