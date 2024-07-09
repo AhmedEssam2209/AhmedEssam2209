@@ -12,7 +12,7 @@
   - [ALU Unit](https://github.com/AhmedEssam2209/ALU-Unit) <b>
 - <b> C++ and CMU graphics library.  </b>
   - [Kids Drawing App](https://github.com/AhmedEssam2209/Kids-drawing-app) <b>
-- <b> VHDL modelsim </b>
+- <b> ARM assembly </b>
   - [Gaming Console](https://github.com/AhmedEssam2209/Gaming-console-) <b>
 - <b> C in Linux platform. </b>
   - [OS scheduler](https://github.com/AhmedEssam2209/OS-scheduler-) <b>
