@@ -6,7 +6,7 @@
   - [Hospital App](https://github.com/AhmedEssam2209/Hospital-App) <b>
 - <b>ASP.Net core WebAPI </b>
   - [Movie Rating API](https://github.com/AhmedEssam2209/Movie-Rating-API) <b>
-  - <b> ASP.Net core Razor Pages  </b>
+- <b> ASP.Net core Razor Pages  </b>
   - [Login/Registration](https://github.com/AhmedEssam2209/LoginRegistration) <b>
 - <b> VHDL modelsim </b>
   - [Pipelined processor](https://github.com/AhmedEssam2209/Pipelined-processor) <b>
