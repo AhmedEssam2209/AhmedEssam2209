@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>WinForms C# with SQL server</b>
-  - [Hospital App](https://github.com/AhmedEssam2209/Hospital-App)
+  - [Hospital App](https://github.com/AhmedEssam2209/Hospital-App) <b>
 - <b>ASP.Net core WebAPI </b>
   - [Movie Rating API](https://github.com/AhmedEssam2209/Movie-Rating-API) <b>
   - <b> ASP.Net core Razor Pages  </b>
