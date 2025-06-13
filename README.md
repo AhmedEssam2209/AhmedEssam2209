@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>LinkedIn Clone</b>
+  - [LinkedIn Clone](https://github.com/JobsyLinkedIn) <b>
 - <b>WinForms C# with SQL server</b>
   - [Hospital App](https://github.com/AhmedEssam2209/Hospital-App) <b>
 - <b>ASP.Net core WebAPI </b>
